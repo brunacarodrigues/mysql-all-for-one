@@ -1,10 +1,3 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Projeto do módulo de Back-End.
+Consultas SQL para seleção, inserção, atualização e exclusão de dados em tabelas de um banco de dados relacional.
+Seleção de dados específicos, ordenação, filtragem, agregação, inserção de novos registros, atualização de registros existentes e exclusão de registros.
